@@ -20,24 +20,24 @@ Instructions:
    - sc is the scalability of the problem. You can choose 0 or 1.
    - case refers to each randomly generated number. You can choose 1,2,3,...,99,100.
    - met refers to the solution approach. You can choose one of the following options:
-          1: Branch and bound algorithm
-          2: Special order set algorithm
-          3: Fortuny-Amat approach with big-M = 5 
-          4: Fortuny-Amat approach with big-M = 10 
-          5: Fortuny-Amat approach with big-M = 20 
-          6: Fortuny-Amat approach with big-M = 50 
-          7: Fortuny-Amat approach with big-M = 100 
-          8: Fortuny-Amat approach with big-M = 200 
-          9: Fortuny-Amat approach with big-M = 500 
-          10: Fortuny-Amat approach with big-M = 1000 
-          11: Fortuny-Amat approach with big-M = 5000 
-          12: Fortuny-Amat approach with big-M = 10000 
-          13: Fortuny-Amat approach with big-M = 100000 
-          14: Regularization method
-          15: Penalty method
-          16: Solution approach proposed in [1] with M = 2
-          17: Solution approach proposed in [1] with M = 5
-          18: Solution approach proposed in [1] with M = 10
+     - 1: Branch and bound algorithm
+     - 2: Special order set algorithm
+     - 3: Fortuny-Amat approach with big-M = 5 
+     - 4: Fortuny-Amat approach with big-M = 10 
+     - 5: Fortuny-Amat approach with big-M = 20 
+     - 6: Fortuny-Amat approach with big-M = 50 
+     - 7: Fortuny-Amat approach with big-M = 100 
+     - 8: Fortuny-Amat approach with big-M = 200 
+     - 9: Fortuny-Amat approach with big-M = 500 
+     - 10: Fortuny-Amat approach with big-M = 1000 
+     - 11: Fortuny-Amat approach with big-M = 5000 
+     - 12: Fortuny-Amat approach with big-M = 10000 
+     - 13: Fortuny-Amat approach with big-M = 100000 
+     - 14: Regularization method
+     - 15: Penalty method
+     - 16: Solution approach proposed in [1] with M = 2
+     - 17: Solution approach proposed in [1] with M = 5
+     - 18: Solution approach proposed in [1] with M = 10
 
 Remarks:
 
