@@ -48,22 +48,3 @@ print(paste('Objective function:',OF_UL))
 print(paste('Time:',time,'seconds'))
 if ((modelstat==1)|(modelstat==2)|(modelstat==8)) {print('Status: 1')} else {print('Status: 0')}
 }
-
-bilevel(50,100,0,1,2)
-bilevel(50,100,0,1,3)
-bilevel(50,100,0,1,4)
-bilevel(50,100,0,1,5)
-bilevel(50,100,0,1,6)
-bilevel(50,100,0,1,7)
-bilevel(50,100,0,1,8)
-bilevel(50,100,0,1,9)
-bilevel(50,100,0,1,10)
-bilevel(50,100,0,1,11)
-bilevel(50,100,0,1,12)
-bilevel(50,100,0,1,13)
-bilevel(50,100,0,1,14)
-bilevel(50,100,0,1,15)
-bilevel(50,100,0,1,16)
-bilevel(50,100,0,1,17)
-bilevel(50,100,0,1,18)
-
