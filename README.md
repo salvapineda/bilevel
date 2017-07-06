@@ -39,7 +39,7 @@ Instructions:
      - 17: Solution approach proposed in [1] with M = 5
      - 18: Solution approach proposed in [1] with M = 10
 
-7. The screel will display the objective function value, the computational time, and the status that can be equal to 1 if the problem has been solved succesfully, or 0 otherwise.
+7. The screen will display the objective function value, the computational time, and the status that can be equal to 1 if the problem has been solved succesfully, or 0 otherwise.
 
 Remarks:
 
