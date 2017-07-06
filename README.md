@@ -16,8 +16,8 @@ Instructions:
 
 6. Run bilevel(n,s,sc,case,met) where
    - n is the size of the problem. You can choose 50, 100 or 200.
-   - s is the sparcity of the matrices. You can choose 100 or 50.
-   - sc is the scalability of the problem. You can choose 0 or 1.
+   - s is the sparcity of the matrices. You can choose 100 (full matrices) or 50 (sparse matrices).
+   - sc is the scalability of the problem. You can choose 0 (well-scaled) or 1 (bad-scaled).
    - case refers to each randomly generated number. You can choose 1,2,3,...,99,100.
    - met refers to the solution approach. You can choose one of the following options:
      - 1: Branch and bound algorithm
@@ -38,6 +38,8 @@ Instructions:
      - 16: Solution approach proposed in [1] with M = 2
      - 17: Solution approach proposed in [1] with M = 5
      - 18: Solution approach proposed in [1] with M = 10
+
+7. The screel will display the objective function value, the computational time, and the status that can be equal to 1 if the problem has been solved succesfully, or 0 otherwise.
 
 Remarks:
 
